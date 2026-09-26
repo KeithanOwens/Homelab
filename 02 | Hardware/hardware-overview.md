@@ -25,7 +25,7 @@ I picked this route because it lets me experiment with new services without risk
 ## Xfinity XB10 Gateway
 This is the ISP-provided modem/router combo, currently running in its **normal stock mode**. It's handling routing, DHCP, and WiFi for the whole house right now.
 
-> This is a known limitation. It means the ISP's hardware is making the routing decisions instead of me, which is exactly why the next phase of this project is replacing its routing role with OPNsense. See [Network Architecture](../03-network-foundation/network-topology.md).
+> This is a known limitation. It means the ISP's hardware is making the routing decisions instead of me, which is exactly why the next phase of this project is replacing its routing role with OPNsense.
 
 ## TP-Link TL-SG108E Switch
 An unmanaged 8-port switch that takes the Ethernet signal coming out of my MoCA adapter and fans it out to the wall jacks in each room through the patch box.
