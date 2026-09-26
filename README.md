@@ -6,7 +6,7 @@ Documenting how I built and troubleshooted my home network and server infrastruc
 
 ## Contents
 
-- [Internet Setup & Solution](01-the-problem/coax-rental-internet.md)
+- [Internet Setup & Solution](01-the-problem/Internet-Setup-and-Solution.md)
   Diagnosing and fixing a throughput bottleneck across coax, MoCA, and in-wall Ethernet wiring at a rental.
 
 - [Hardware](02-hardware/hardware-overview.md)
